@@ -24,5 +24,4 @@ namespace TailSpin.SpaceGame.Web.Models
         [JsonProperty(PropertyName = "gameStyle")]
         public string GameStyle { get; set; }
     }
-    }
 }
